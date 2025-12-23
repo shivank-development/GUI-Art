@@ -21,5 +21,5 @@ pumpkin = """
 console.print(Text(pumpkin, style="bold orange1"))
 
 engine = pyttsx3.init()
-engine.say("Happy Halloween!")
+engine.say("Happy Happy")
 engine.runAndWait()
